@@ -1,0 +1,38 @@
+ .card {
+     width: 300px;
+     height: 500px;
+     border: 2px solid black;
+     position: relative;
+     top: 25px;
+     padding: 2px;
+     margin-left: 500px;
+ }
+
+ .upper {
+     width: 300px;
+     height: 300vh;
+     border: 1px solid black;
+     border-radius: 50%;
+     display: inline;
+     justify-content: center;
+     margin-left: 2%;
+
+ }
+
+ h3 {
+     text-align: start;
+ }
+
+ p {
+     overflow: scroll;
+     height: 100px;
+     width: 300px;
+     border: 3px dotted rgb(241, 76, 5);
+     padding: auto;
+ }
+
+ h2 {
+     text-align: center;
+     text-shadow: 2px 2px 4px rgb(255, 0, 187);
+
+ }
